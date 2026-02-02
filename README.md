@@ -7,13 +7,17 @@
 ---
 
 ### 👩‍💻 About Me
+
 - 🌱 Currently learning  
   **Network Security | VoIP | Network Management | System Administration**
+  
 - 🧪 Hands-on experience with  
   **Cisco Packet Tracer labs, ACLs, basic enterprise network designs**
+ 
 - 👯 Looking to collaborate on  
   **Java-based apps, small web systems, or cybersecurity-related projects**
-- 🎯 Goal: **Secure a technical internship in networking / security / backend development**
+  
+
 - ⚡ Fun fact:  
   *The first computer bug was a real moth found in 1947 🐞*
 
