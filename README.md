@@ -64,9 +64,3 @@
 
 
 
----
-
-### 🏆 GitHub Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=PsmTissera&theme=tokyonight&row=1&margin-w=15&no-bg=true)
-
----
