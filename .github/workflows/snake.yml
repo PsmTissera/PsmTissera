@@ -1,8 +1,5 @@
 name: Generate Snake
 
-permissions:
-  contents: write
-
 on:
   schedule:
     - cron: "0 0 * * *"   # daily
@@ -13,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake game from GitHub contributions
-        uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: PsmTissera
           outputs: |
@@ -28,3 +25,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
