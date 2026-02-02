@@ -58,7 +58,7 @@
 
 ---
 
-### 🐍 GitHub Activity
+
 ### 🐍 GitHub Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/PsmTissera/PsmTissera/output/github-contribution-grid-snake-dark.svg" width="700" />
