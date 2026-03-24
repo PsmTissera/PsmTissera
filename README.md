@@ -50,7 +50,6 @@
 
 ---
 
-
 ### 📌 Featured Learning Projects
 
 - 🔐 **Secure Login System** – secure authentication system using PHP and MySQL with password hashing
@@ -58,10 +57,11 @@
 - 🌐 **Enterprise Network Design with VLANs & OSPF** – Cisco Packet Tracer enterprise network with VLAN segmentation and dynamic routing
 
 - 🏢 **Warehouse Management System** – Java enterprise application group project developed for the DEA module
----
 
 ---
+
 ### 🐍 GitHub Activity
+---
 ![snake gif](https://raw.githubusercontent.com/PsmTissera/PsmTissera/output/github-contribution-grid-snake.svg)
 
 
