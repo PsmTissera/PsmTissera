@@ -55,9 +55,14 @@
 ---
 
 ### 📌 Featured Learning Projects
-- 📘 **Daily Study Log System** – track daily technical learning
-- 🔐 **Network Security Labs** – ACLs, enterprise topologies (Packet Tracer)
-- ☕ **Java Web Applications** – MVC, MySQL integration
+```
+
+* 🔐 Secure Login System – secure authentication system using PHP and MySQL with password hashing
+
+* 🌐 Enterprise Network Design with VLANs & OSPF – Cisco Packet Tracer enterprise network with VLAN segmentation and dynamic routing
+
+* 🏢 Warehouse Management System – Java enterprise application group project developed for the DEA module
+```
 
 ---
 
