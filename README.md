@@ -60,7 +60,7 @@
 - 🏢 **Warehouse Management System** – Java enterprise application group project developed for the DEA module
 ---
 
-
+---
 ### 🐍 GitHub Activity
 ![snake gif](https://raw.githubusercontent.com/PsmTissera/PsmTissera/output/github-contribution-grid-snake.svg)
 
