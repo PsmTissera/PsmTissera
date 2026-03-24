@@ -1,5 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Sandupama</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6a11cb,100:2575fc&text=Sandupama%20Tissera&fontSize=40&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff)
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=6A11CB&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sandupama;Network+%26+Security+Enthusiast;Java+%26+Web+Developer" />
+</p>
+
 <h3 align="center">
 🔐 Network & Security Enthusiast | 💻 Java & Web Developer | 🌐 Computing Undergraduate
 </h3>
