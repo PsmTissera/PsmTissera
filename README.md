@@ -35,7 +35,7 @@
 ---
 
 ### 🛠️ Languages & Tools (Used in Practice)
-<p align="left">
+
   <!-- Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
